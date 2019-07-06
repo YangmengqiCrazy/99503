@@ -4323,13 +4323,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="951" />
     <option name="width" value="978" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -4718,8 +4718,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="11" visible="true" weight="0.2534819" />
@@ -4735,7 +4734,7 @@
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03686327" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2124665" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.81197774" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.3297587" />
